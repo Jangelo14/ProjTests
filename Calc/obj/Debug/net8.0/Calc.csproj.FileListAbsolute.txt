@@ -1,0 +1,14 @@
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/bin/Debug/net8.0/Calc
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/bin/Debug/net8.0/Calc.deps.json
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/bin/Debug/net8.0/Calc.runtimeconfig.json
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/bin/Debug/net8.0/Calc.dll
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/bin/Debug/net8.0/Calc.pdb
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.AssemblyInfoInputs.cache
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.AssemblyInfo.cs
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.dll
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/refint/Calc.dll
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.pdb
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.genruntimeconfig.cache
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/ref/Calc.dll
