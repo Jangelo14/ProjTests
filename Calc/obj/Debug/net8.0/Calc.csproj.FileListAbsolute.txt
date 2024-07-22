@@ -12,3 +12,4 @@
 /Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.pdb
 /Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.genruntimeconfig.cache
 /Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/ref/Calc.dll
+/Users/user/Documents/Aulas/C#/Aulas/calc/Calc/obj/Debug/net8.0/Calc.sourcelink.json

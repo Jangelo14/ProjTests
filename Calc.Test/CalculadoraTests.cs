@@ -2,24 +2,18 @@ using System;
 using Xunit;
 using Calculadora;
 
-namespace Calctests;
+namespace Calculadora.Tests
 {
     public class CalculadoraTests
     {
-        [Fact]
-        public void Somar_DeveLancarExcecaoParaEntradasInvalidas()
+        [Fact] // Divisao por zero
+        public void Calcular()
         {
-            string input1 = "abc";
-            string input2 = "xyz";
+            string input1 = "10";
+            string input2 = "0";
+            string operacao = "/";
 
-            Assert.Throws<FormatException>(() =>
-            {
-                if(!double.TryParse(input1, out double numero1) || !double.TryParse(input2, out double numero2))
-                {
-                    throw new FormatException("Entrada invalida");
-                }
-                Program.Somar(numero1, numero2);
-            });
+            Assert.Throws<DivideByZeroException>(() => Program.Calcular(input1, input2, operacao));
         }
     }
 }
